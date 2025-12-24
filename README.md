@@ -143,6 +143,4 @@ Screenshots of each page are in the [`images/`](./images) folder.
 
 ---
 
-## 7. Links
-
 - LinkedIn post: [ADD LINK HERE]
