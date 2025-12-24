@@ -28,7 +28,6 @@ End-to-end analytics project using PostgreSQL (hosted on AWS RDS) and Power BI t
 
 ## 3. SQL Data Model
 
-All SQL scripts are in the [`sql/`](./sql) folder.
 
 ### 3.1 `superstore_clean` view
 
@@ -86,7 +85,6 @@ View: `superstore_yearly_summary`
 
 ## 4. Power BI Report
 
-Power BI file: [`powerbi/SuperStore.pbix`](./powerbi/SuperStore.pbix)
 
 ### Pages
 
@@ -115,7 +113,7 @@ Power BI file: [`powerbi/SuperStore.pbix`](./powerbi/SuperStore.pbix)
    - Monthly profit trend for West / Technology
    - Bar chart: top Technology sub-categories in West by sales and profit
 
-Screenshots of each page are in the [`images/`](./images) folder.
+
 
 ---
 
@@ -142,5 +140,3 @@ Screenshots of each page are in the [`images/`](./images) folder.
 - Deployed the data model on AWS RDS to simulate a production-like environment.
 
 ---
-
-- LinkedIn post: [ADD LINK HERE]
